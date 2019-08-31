@@ -88,7 +88,7 @@ janin.currencies = [
     //                              name, networkVersion, privateKeyPrefix, WIF_Start, CWIF_Start, donate
     janin.currency.createCurrency ("Bitcoin",             0x00, 0x80, "5",    "[LK]" , "15DHZzv7eBUwss77qczZiL3DUEZLjDYhbM"),
 	janin.currency.createCurrency ("Dogecoin",            0x1e, 0x9e, "6",    "Q"    , "D74Npoqhwhjw9fShkm5wbj6DD2BJXpmzPj"),
-	janin.currency.createCurrency ("FlapX",               0x4b, 0xaa, "6",    "S"    , ""),
+	janin.currency.createCurrency ("FlapX",               0x4b, 0xf0, "9",    "c"    , ""),
 	janin.currency.createCurrency ("Litecoin",            0x30, 0xb0, "6",    "T"    , "LiScnsyPcqsyxn1fx92BcFguryXcw4DgCy"),
 	janin.currency.createCurrency ("SAT3",                0x2a, 0xaa, "6",    "S"    , ""),
     
